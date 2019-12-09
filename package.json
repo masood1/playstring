@@ -1,0 +1,14 @@
+{
+  "name": "@masood_hussain/playstring",
+  "version": "1.0.0",
+  "description": "Removes all spaces from a string and other string functions are under development",
+  "license": "MIT",
+  "repository": "masood1/playstring",
+  "main": "index.js",
+  "keywords": [
+    "playstring",
+    "npm",
+    "package",
+    "masood_hussain"
+  ]
+}
