@@ -4,13 +4,13 @@ Removes all spaces from a string.
 ## Install
 
 ```
-$ npm install @masood_hussain/playstring
+$ npm install playstring
 ```
 
 ## Usage
 
 ```js
-const playstring = require("@masood_hussain/playstring");
+const playstring = require("playstring");
 
 playstring("So much space!");
 //=> "Somuchspace!"

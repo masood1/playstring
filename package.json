@@ -1,5 +1,5 @@
 {
-  "name": "@masood_hussain/playstring",
+  "name": "playstring",
   "version": "1.0.0",
   "description": "Removes all spaces from a string and other string functions are under development",
   "license": "MIT",
